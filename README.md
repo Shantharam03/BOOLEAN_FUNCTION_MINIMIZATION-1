@@ -53,7 +53,7 @@ output f2;
 assign f2=((~y&z)|(x&y)|(w&y));
 endmodule
 ```
-**RTL realization**
+
 
 **Output:**
 ### F1
@@ -71,10 +71,6 @@ endmodule
 
 ### F2
 ![image](https://github.com/user-attachments/assets/fa2da9bc-1018-4092-9851-79395262902d)
-
-
-
-**Timing Diagram**
 
 **Result:**
 
